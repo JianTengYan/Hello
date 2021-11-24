@@ -1,4 +1,2 @@
-# my_git
-# Hello
-# Hello
-# Hello
+# Have a nice day :D
+
